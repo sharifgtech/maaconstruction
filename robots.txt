@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maaconstruction.co.in/sitemap.xml
